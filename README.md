@@ -1,0 +1,2 @@
+# MFC_PROGRESSCONTROL
+MFC 带文字进度条控件
